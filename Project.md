@@ -73,7 +73,7 @@ inside `tests` folder.
 
 #### Django Unit Testing
 [Unit tests](https://en.wikipedia.org/wiki/Unit_testing) are supposed to test one component in isolation (e.g. behaviour of one class). 
-The example of writing a unit test can be found [here](https://docs.djangoproject.com/en/4.1/topics/testing/overview/#writing-tests)
+The example of writing a unit test can be found [here](https://docs.djangoproject.com/en/4.1/topics/testing/overview/#writing-tests).
 
 #### Django Integration Testing
 [Integration testing](https://en.wikipedia.org/wiki/Integration_testing) is used to test whether the integration among multiple components works fine.
@@ -144,7 +144,7 @@ Its usage should be free of charge for open source projects (public repositories
 [pricing plan](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions). 
 In the context of GitHub Actions, build plans are called as workflows. A workflow can contain a set of jobs triggered when the corresponding 
 event occurred. The worfklow is executed on the specified runner (a VM present somewhere in the cloud).
-The results of all workflows can be found in [Actions tab](https://github.com/vladaindjic/DjangoAuthTests/actions).
+The results of all workflows can be found in [Actions tab](https://github.com/vanjamijatov/UKS-DjangoAuthTestsDocker/actions).
 
 A simple workflow can be found in this [django.yml file](https://github.com/vanjamijatov/UKS-DjangoAuthTestsDocker/blob/master/.github/workflows/django.yml). 
 As one can notice, this workflow is triggered when pull request is created on *master* branch or if the code has been pushed to the same branch.
@@ -155,7 +155,7 @@ specified test suites.
 Note that workflows should be placed in `<repo_root_dir>/.github/workflows/ directory`. 
 
 For more information aboud what each YAML element represents, you may consult the 
-[documentation](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions#understanding-the-workflow-file)
+[documentation](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions#understanding-the-workflow-file).
 
 From the early stages of the application development, you should use the tool for continuous integration. 
 
@@ -274,7 +274,7 @@ server and the in-memory key-value redis database.
 
 The [Django settings.py module](https://github.com/vanjamijatov/UKS-DjangoProductionSetup/blob/master/prodavnicesajt/prodavnicesajt/settings.py)
 should be able to dynamically choose the setup which corresponds to either test or production environment.
-The module assumes that the Linux environment variable [UKS_TEST_DB](https://github.com/vanjamijatov/UKS-DjangoProductionSetup/blob/master/prodavnicesajt/prodavnicesajt/settings.py#L143) 
+The module assumes that the Linux environment variable [`UKS_TEST_DB`](https://github.com/vanjamijatov/UKS-DjangoProductionSetup/blob/master/prodavnicesajt/prodavnicesajt/settings.py#L143) 
 specifies the type of environment. If the value of the variable is `ON`, then the test environment is
 active and the `DATABASES` variable is set the use the SQLite database. Otherwise, PostgreSQL an Redis
 is used. Note that [when triggering the workflow's jobs](https://github.com/vanjamijatov/UKS-DjangoProductionSetup/blob/master/.github/workflows/django.yml#L10),
