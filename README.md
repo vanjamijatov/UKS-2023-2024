@@ -14,7 +14,7 @@ Plan izvođenja vežbi je sledeći:
 | 7 | [Docker](https://github.com/vanjamijatov/UKS-DjangoAuthTestsDocker) i [Docker Compose](https://github.com/vanjamijatov/UKS-DjangoProductionSetup)                        | 29.11. & 31.11. | [video](https://drive.google.com/file/d/1FFtNc2z9v7ZJ3Ufyiz4ZEHi8v2uq9h-l/view?usp=drive_link) |
 | 8 | Konsultacije | 06.12. & 08.12. | |
 | 9 | [Git - osnove](https://github.com/vanjamijatov/UKS-materijali/tree/main/Git) | 13.12. & 15.12. | |
-| 10 | [Git - branching](https://github.com/vanjamijatov/UKS-materijali/tree/main/Git), [GitFlow, Github Actions (CI/CD)](https://github.com/vanjamijatov/UKS-DjangoAuthTestsDocker) i [PyTest](https://github.com/vanjamijatov/UKS-materijali/tree/main/Pytest) | 20.12. & 22.12. | [video](https://drive.google.com/file/d/14L0at2Ct5qdcwPNE-8kR1NNkP6jG_yOa/view?usp=drive_link) |
+| 10 | [Git - branching](https://github.com/vanjamijatov/UKS-materijali/tree/main/Git), [GitFlow, Github Actions (CI/CD)](https://github.com/vanjamijatov/UKS-DjangoAuthTestsDocker) i [Pytest](https://github.com/vanjamijatov/UKS-materijali/tree/main/Pytest) | 20.12. & 22.12. | [video](https://drive.google.com/file/d/14L0at2Ct5qdcwPNE-8kR1NNkP6jG_yOa/view?usp=drive_link) |
 
 Nakon što završimo sa gradivom neophodnim za implementaciju projektnog zadatka, prelazimo u konsultativni režim rada. Tada će se vežbe održavati u svrhu konsultacija uz neophodni dogovor putem email-a.
 
