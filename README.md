@@ -13,10 +13,10 @@ Plan izvođenja vežbi je sledeći:
 | 6 | [Django auth, Django tests](https://github.com/vanjamijatov/UKS-DjangoAuthTestsDocker) | 15.11. | [video](https://drive.google.com/file/d/14L0at2Ct5qdcwPNE-8kR1NNkP6jG_yOa/view?usp=drive_link) |
 | 7 | Konsultacije | 22.11. | |
 | 8 | Konsultacije | 29.11. | |
-| 9 | [Git - osnove](https://github.com/vanjamijatov/UKS-materijali/tree/main/Git) | 06.12. | |
-| 10 | [Git - branching](https://github.com/vanjamijatov/UKS-materijali/tree/main/Git) i [GitFlow, Github Actions (CI/CD)](https://github.com/vanjamijatov/UKS-DjangoAuthTestsDocker) | 13.12. | [video](https://drive.google.com/file/d/14L0at2Ct5qdcwPNE-8kR1NNkP6jG_yOa/view?usp=drive_link) |
-| 11 | [Docker](https://github.com/vanjamijatov/UKS-DjangoAuthTestsDocker) i [Docker Compose](https://github.com/vanjamijatov/UKS-DjangoProductionSetup)                        | 20.12. | [video](https://drive.google.com/file/d/1FFtNc2z9v7ZJ3Ufyiz4ZEHi8v2uq9h-l/view?usp=drive_link) |
-| 12 | [Pytest](https://github.com/vanjamijatov/UKS-materijali/tree/main/Pytest) | 27.12. | |
+| 9 | Konsultacije | 06.12. | |
+| 10 | [Git - osnove](https://github.com/vanjamijatov/UKS-materijali/tree/main/Git) | 13.12. |  |
+| 11 | [Git - branching](https://github.com/vanjamijatov/UKS-materijali/tree/main/Git) i [GitFlow, Github Actions (CI/CD)](https://github.com/vanjamijatov/UKS-DjangoAuthTestsDocker) | 20.12. | [video](https://drive.google.com/file/d/1FFtNc2z9v7ZJ3Ufyiz4ZEHi8v2uq9h-l/view?usp=drive_link) |
+| 12 | [Docker](https://github.com/vanjamijatov/UKS-DjangoAuthTestsDocker), [Docker Compose](https://github.com/vanjamijatov/UKS-DjangoProductionSetup) i [Pytest](https://github.com/vanjamijatov/UKS-materijali/tree/main/Pytest) | 27.12. | [video](https://drive.google.com/file/d/14L0at2Ct5qdcwPNE-8kR1NNkP6jG_yOa/view?usp=drive_link) |
 
 Nakon što završimo sa gradivom neophodnim za implementaciju projektnog zadatka, prelazimo u konsultativni režim rada. Tada će se vežbe održavati u svrhu konsultacija uz neophodni dogovor putem email-a.
 
